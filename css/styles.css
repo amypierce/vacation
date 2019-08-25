@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(177, 219, 205);
+    font-size: large;
+}
+
+.jumbotron {
+    background-color: rgb(141, 202, 141);
+    }
+
+p.intro {
+    font-style: italic;
+    font-size: large;
+}
+
+img {
+    padding: 4px;
+    margin: 4px;
+    border: 2px;
+}
+
